@@ -1295,6 +1295,9 @@
     "portsFunction_LIDAR_TF": {
         "message": "Benewake LIDAR"
     },
+    "portsFunction_MAVLINK_ATTRATE": {
+        "message": "MAVLink attrate"
+    },
     "pidTuningUpgradeFirmwareToChangePidController": {
         "message": "<span class=\"message-negative\">禁止切换 PID 控制器 -  你可以通过CLI 来调整。<\/span> 当前固件 API 版本为 <span class=\"message-negative\">$1<\/span>，而此功能需要版本 <span class=\"message-positive\">$2<\/span>。"
     },

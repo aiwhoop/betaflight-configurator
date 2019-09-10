@@ -1295,6 +1295,9 @@
     "portsFunction_LIDAR_TF": {
         "message": "Benewake LIDAR"
     },
+    "portsFunction_MAVLINK_ATTRATE": {
+        "message": "MAVLink attrate"
+    },
     "pidTuningUpgradeFirmwareToChangePidController": {
         "message": "<span class=\"message-negative\">PID kontroliera maiņa ir atslēgta  - jūs to varat nomainīt iekš CLI.<\/span>  Jums ir programmatūra ar API versiju <span class=\"message-negative\">$1<\/span>, bet šai funkcionalitātei nepieciešama <span class=\"message-positive\">$2<\/span>."
     },

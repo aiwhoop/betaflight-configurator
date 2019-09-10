@@ -1344,6 +1344,9 @@
     "portsFunction_LIDAR_TF": {
         "message": "Benewake LIDAR"
     },
+    "portsFunction_MAVLINK_ATTRATE": {
+        "message": "MAVLink attrate"
+    },
     "pidTuningUpgradeFirmwareToChangePidController": {
         "message": "<span class=\"message-negative\"> Cambio do controlador PID desactivado - pode cambialo a través da CLI. <\/span> Ten firmware coa versión API <span class=\"message-negative\">$1<\/span>, pero esta funcionalidade require <span class=\"message-positive\">$2<\/span>."
     },
